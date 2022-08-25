@@ -6,7 +6,9 @@ To make this project, first I decided what kind of Object Oriented Programming A
 Then, I started to code and finished the project.
 
 Software to make the project: Eclipse
+
 Programming language used: Java
+
 Project creator: Brian Steve
 
 If you have any questions, suggestions, or comments related to this project, you can contact me through my email: brians1901@gmail.com. Thank you for visiting and seeing this project!
